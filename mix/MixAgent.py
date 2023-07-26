@@ -5,3 +5,4 @@ class MixAgent:
 
     def mix(self):
         pass
+
